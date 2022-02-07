@@ -1,0 +1,126 @@
+*{margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;}
+  
+  
+  nav{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100px;
+      padding: 10px 90px;
+      box-sizing: border-box;
+      background: #2c2c54 ;
+      border-bottom: 1px solid #fff;
+  
+  }
+  
+  .logo{
+      padding: 1px 132px;
+      height: 80px; 
+      float: left;
+      font-size: 24px;
+      font-weight: bold;
+      text-transform: uppercase;
+      color:#fff;
+  }
+  
+  nav ul {
+      list-style: none;
+      float: right;
+      margin: 0;
+      padding: 0;
+      display: flex;
+  
+  }
+  
+  nav ul li a{
+      line-height: 80px;
+      color: #fff;
+      padding: 12px 30px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      text-transform: uppercase;
+  }
+.main {
+  text-align: left;
+  position: relative;
+  padding-right: 950px;
+  padding-left: 240px;
+}
+
+
+.firstbody {
+  padding: 269px;
+
+  background-image: url(pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg);
+  background-repeat: no-repeat;
+  background-size: 678px 581px;
+  background-position: 161px 64px;
+  background-color:#ffffff ;
+}
+
+.taglineone {
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  left: 485px;
+  bottom: 60px;
+  padding: 33px;
+}
+.taglingetwo {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  left: 520px;
+  bottom: 74px;
+  color: #2a7379;
+}
+
+.secondbody{
+    
+    font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+    
+    padding: 180px;
+    background-color: #4bcffa;
+}
+
+h1{position: relative;
+    font-size: 47px;
+    top: -137px;
+    right: -464px;
+
+}
+
+.youtube{
+    color: black;
+    padding-left: 188px;
+    
+}
+
+.ytone{position: relative;
+  height: 229px;
+  width: 412px;
+padding-left: 20px;
+padding-right: 30px;}
+.yttwo{position: relative;
+  height: 229px;
+  width: 412px;
+  padding-left: 20px;
+padding-right: 30px;
+}
+.ytthree{position: relative;
+  height: 229px;
+  width: 412px;
+  padding-left: 20px;
+padding-right: 30px;
+}
+.logo {position:absolute;
+margin-top:15px ;
+margin-left: 10px;
+height: 60;
+width: 60;}
